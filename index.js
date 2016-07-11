@@ -1,4 +1,4 @@
-var toAdd = 25
+var toAdd = 28
 
 function summer (sumVal) {
   return function (toAdd) {
